@@ -1,0 +1,371 @@
+
+body{
+   margin: 0px;
+   padding: 0px;
+}
+
+.cont{
+   
+   background-image: url(../images/drew-coffman-1872.jpg);
+   background-size: cover;
+   background-position:center;
+  
+}
+
+.cont .navbar .image{
+   width: 40%;
+   display: inline-block;
+ 
+}
+.cont .navbar .image img{
+   width:40%;
+}
+
+
+.navbar ul li a{
+color: #fff !important;
+font-size: 20px !important;
+
+
+font-weight: 500 !important;
+text-decoration: none !important;
+}
+.home-item{
+   width: 50%;
+   margin: auto;
+   text-align: center;
+   padding-bottom: 100px;
+}
+.home-item h2{
+   color: #fff;
+   padding-top: 100px;
+   font-weight: 100;
+   font-size: 30px;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+}
+.home-item h1{
+   font-size: 70px;
+   color: #fff;
+   padding-top: 15px;
+   
+}
+.home-item p{
+   color: #fff;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   font-size: 20px;
+}
+.home-item button{
+   padding: 20px;
+   margin-left: 5px;
+   border: none;
+   border-radius: 5px;
+   color: #fff;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   font-size: 15px;
+   margin-bottom: 40px;
+}
+.home-item .btn1{
+   background-color: rgb(142, 119, 84);
+}
+.home-item .btn2{
+   background-color: transparent;
+   border: solid 2px #fff;
+}
+.about, .location, .baking, .contact{
+   width: 90%;
+   margin: auto;
+   text-align: center;
+   margin: 50px auto;
+}
+
+.about h2, .location h2, .baking h2, .contact h2{
+ color:  rgb(48, 48, 48);
+   margin-top: 15px;
+   font-size: 30px;
+}
+.about p, .location p, .baking p,  .paking-part .bread p, .contact p, .items p, .items span, .items a{
+   font-size: 20px;
+   color: rgb(104, 104, 104);
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   margin: 20px  ;
+   margin-bottom: 50px;
+}
+
+.about div, .contact div{
+   text-align: left;
+   margin-bottom: 20px;
+}
+.about div img, .contact div img{
+   width: 50px;
+ 
+
+}
+.about img,.location img{
+  width: 100%;
+}
+
+.about div span, .contact div span{
+   vertical-align: top;
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: rgb(104, 104, 104);
+  font-family: "Alegreya Sans", sans-serif, monospace;
+}
+.cont-location, .cont-contact{
+  padding-top: 30px;
+   background-color: rgb(248, 248, 248);
+  padding-bottom: 50px;
+}
+.paking-part{
+   width: 90%;
+   margin: auto;
+
+}
+.paking-part .bread{
+   width: 29%;
+   display: inline-block;
+margin-left: 32px;
+text-align: center;
+
+}
+
+.paking-part .bread img{
+   width: 100%;
+
+}
+.cont-contact .contact .img{
+  margin-top: 50px;
+} 
+.items{
+ 
+  width: 90%;
+  margin: auto;
+  padding: 50px 0px;
+}
+.items div{
+  width: 49%;
+  display: inline-block;
+  margin-left: 5px;
+}
+.content-item{
+  background-color: rgb(64, 61, 56);
+}
+.items div h2{
+  color: #fff;
+}
+ .items div img{
+  width: 20px;
+ }
+.items div div{
+padding-bottom: 20px;
+width: 100%;
+ }
+ .items .aboutus, .items .oppening{
+  vertical-align: top;
+ }
+ .items hr{
+ border:solid .1px rgba(0, 0, 0, 0.31);
+  width: 90%;
+ }
+ .footer{
+  padding: 50px 0px;
+  margin: auto;
+  background-color: rgb(53, 51, 48);
+  text-align: center;
+ }
+ .footer p{
+  color: rgb(104, 104, 104);
+  font-size: 20px;
+ }
+ .footer img{
+  width: 50px;
+ }
+ .footer .image{
+  width: 20%;
+ }
+body{
+   margin: 0px;
+   padding: 0px;
+}
+
+.cont{
+   
+   background-image: url(../images/drew-coffman-1872.jpg);
+   background-size: cover;
+   background-position:center;
+  
+}
+
+.cont .navbar .image{
+   width: 40%;
+   display: inline-block;
+ 
+}
+.cont .navbar .image img{
+   width:40%;
+}
+
+
+.navbar ul li a{
+color: #fff !important;
+font-size: 20px !important;
+
+
+font-weight: 500 !important;
+text-decoration: none !important;
+}
+.home-item{
+   width: 50%;
+   margin: auto;
+   text-align: center;
+   padding-bottom: 100px;
+}
+.home-item h2{
+   color: #fff;
+   padding-top: 100px;
+   font-weight: 100;
+   font-size: 30px;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+}
+.home-item h1{
+   font-size: 70px;
+   color: #fff;
+   padding-top: 15px;
+   
+}
+.home-item p{
+   color: #fff;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   font-size: 20px;
+}
+.home-item button{
+   padding: 20px;
+   margin-left: 5px;
+   border: none;
+   border-radius: 5px;
+   color: #fff;
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   font-size: 15px;
+   margin-bottom: 40px;
+}
+.home-item .btn1{
+   background-color: rgb(142, 119, 84);
+}
+.home-item .btn2{
+   background-color: transparent;
+   border: solid 2px #fff;
+}
+.about, .location, .baking, .contact{
+   width: 90%;
+   margin: auto;
+   text-align: center;
+   margin: 50px auto;
+}
+
+.about h2, .location h2, .baking h2, .contact h2{
+ color:  rgb(48, 48, 48);
+   margin-top: 15px;
+   font-size: 30px;
+}
+.about p, .location p, .baking p,  .paking-part .bread p, .contact p, .items p, .items span, .items a{
+   font-size: 20px;
+   color: rgb(104, 104, 104);
+   font-family: "Alegreya Sans", sans-serif, monospace;
+   margin: 20px  ;
+   margin-bottom: 50px;
+}
+
+.about div, .contact div{
+   text-align: left;
+   margin-bottom: 20px;
+}
+.about div img, .contact div img{
+   width: 50px;
+ 
+
+}
+.about img,.location img{
+  width: 100%;
+}
+
+.about div span, .contact div span{
+   vertical-align: top;
+  margin-bottom: 20px;
+  font-size: 20px;
+  color: rgb(104, 104, 104);
+  font-family: "Alegreya Sans", sans-serif, monospace;
+}
+.cont-location, .cont-contact{
+  padding-top: 30px;
+   background-color: rgb(248, 248, 248);
+  padding-bottom: 50px;
+}
+.paking-part{
+   width: 90%;
+   margin: auto;
+
+}
+.paking-part .bread{
+   width: 29%;
+   display: inline-block;
+margin-left: 32px;
+text-align: center;
+
+}
+
+.paking-part .bread img{
+   width: 100%;
+
+}
+.cont-contact .contact .img{
+  margin-top: 50px;
+} 
+.items{
+ 
+  width: 90%;
+  margin: auto;
+  padding: 50px 0px;
+}
+.items div{
+  width: 49%;
+  display: inline-block;
+  margin-left: 5px;
+}
+.content-item{
+  background-color: rgb(64, 61, 56);
+}
+.items div h2{
+  color: #fff;
+}
+ .items div img{
+  width: 20px;
+ }
+.items div div{
+padding-bottom: 20px;
+width: 100%;
+ }
+ .items .aboutus, .items .oppening{
+  vertical-align: top;
+ }
+ .items hr{
+ border:solid .1px rgba(0, 0, 0, 0.31);
+  width: 90%;
+ }
+ .footer{
+  padding: 50px 0px;
+  margin: auto;
+  background-color: rgb(53, 51, 48);
+  text-align: center;
+ }
+ .footer p{
+  color: rgb(104, 104, 104);
+  font-size: 20px;
+ }
+ .footer img{
+  width: 50px;
+ }
+ 
+ .footer .image{
+   width: 20%;
+
+  }
